@@ -1,2 +1,3 @@
 # practice-nico-v
 Hello, my name is Nico and I am from San Diego.  During SPIS I hope to learn more about python and computer science in general; which includes jobs, computer science's effect on the world, and also its deeper meaning beyond just simply coding.  For outside interests, I love both watching and playing sports, namely basketball and football.  In addition, I also enjoy playing ping pong and just hanging out with my friends doing basically anything.  I am not entirely sure what could be added to the non-academic activites, but Candyland is a underrated board game in my opinion.
+![me](nico-v.jpg)
